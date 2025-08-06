@@ -399,16 +399,6 @@ The application is optimized for deployment on:
 - **Docker** containers
 - **Static hosting** (after `next export`)
 
-### Environment Variables
-
-Create a `.env.local` file for environment-specific variables:
-
-```bash
-NEXT_PUBLIC_API_URL=your_api_url
-NEXT_PUBLIC_ANALYTICS_ID=your_analytics_id
-# Add other environment variables as needed
-```
-
 ## Contributing
 
 We welcome contributions! Please follow these steps:
