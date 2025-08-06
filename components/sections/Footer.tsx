@@ -51,8 +51,12 @@ export default function Footer() {
             className="lg:col-span-1"
           >
             <div className="flex items-center space-x-2 mb-6">
-              <div className="p-2 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg">
-                <Sparkles className="w-6 h-6 text-white" />
+              <div>
+                <img 
+                src="/placeholder-logo.png" 
+                alt="ADmyBRAND Logo" 
+                className="w-12 h-12"
+                />
               </div>
               <span className="text-2xl font-bold text-white">ADmyBRAND</span>
             </div>

@@ -43,7 +43,7 @@ export default function Navbar() {
               <img 
                 src="/placeholder-logo.png" 
                 alt="ADmyBRAND Logo" 
-                className="w-8 h-8"
+                className="w-12 h-12"
               />
               <span className="text-xl font-bold text-white">ADmyBRAND</span>
             </div>
